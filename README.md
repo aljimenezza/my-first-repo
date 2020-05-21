@@ -1,28 +1,25 @@
-# This is a large heading
+# Alejandro Jiménez
 
-## This is a smaller heading
+### Geography
 
-And as **imagination** bodies forth,
-The forms of things *unknown*, the poet’s pen,
-Turns them to shapes and gives to airy nothing,
-A local *habitation* and a **name**.
+I'm from Colombia and I live in Copacabana, Antioquia.
 
-- This is
-- an unordered
-- list
+### Interests
 
-1. This is
-2. an ordered
-3. list
+I am too attracted to:
 
-Here is `some code` in the middle of a sentence.
+- Science
+- Technology
+- Video games 
 
-```
-This is
-a block
-of code
-```
+### Food
 
-Here is how you make [a link](https://www.wikipedia.org/).
+I love eating, some foods that make me so happy are:
 
-![This is an image.](https://github.com/yihui/xaringan/releases/download/v0.0.2/karl-moustache.jpg)
+1. Burguer.
+2. Sushi.
+3. Italian food.
+
+### Contact
+
+The best way to get in touch with me is [on Facebook](https://www.facebook.com/alejojz1999/).
